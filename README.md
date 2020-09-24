@@ -1,10 +1,10 @@
 <!-- GITHUB STATS -->
-<a href="https://github.com/MoonFoxy">
+<a href="https://github.com/Kristalkill">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoonFoxy&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=dracula&title_color=f9826c" />
 </a>
 
 <!-- TOP LANGUAGES -->
-<a href="https://github.com/MoonFoxy">
+<a href="https://github.com/Kristalkill">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonFoxy&hide_title=true&langs_count=8&layout=compact&theme=dracula&title_color=f9826c" />
 </a>
 
